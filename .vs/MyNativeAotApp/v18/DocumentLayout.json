@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{950E915F-D616-7857-0FB5-BA3F237E4AE5}|MyNativeAotApp.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{950E915F-D616-7857-0FB5-BA3F237E4AE5}|MyNativeAotApp.csproj|d:\\projects\\newapp\\mynativeaotapp\\mynativeaotapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{950E915F-D616-7857-0FB5-BA3F237E4AE5}|MyNativeAotApp.csproj|solutionrelative:mynativeaotapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{950E915F-D616-7857-0FB5-BA3F237E4AE5}|MyNativeAotApp.csproj|d:\\projects\\newapp\\mynativeaotapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{950E915F-D616-7857-0FB5-BA3F237E4AE5}|MyNativeAotApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyNativeAotApp",
+              "DocumentMoniker": "D:\\Projects\\NewApp\\MyNativeAotApp\\MyNativeAotApp.csproj",
+              "RelativeDocumentMoniker": "MyNativeAotApp.csproj",
+              "ToolTip": "D:\\Projects\\NewApp\\MyNativeAotApp\\MyNativeAotApp.csproj",
+              "RelativeToolTip": "MyNativeAotApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-23T14:36:24.242Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -32,14 +49,14 @@
               "RelativeDocumentMoniker": "Dockerfile",
               "ToolTip": "D:\\Projects\\NewApp\\MyNativeAotApp\\Dockerfile",
               "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-06-23T06:24:23.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\NewApp\\MyNativeAotApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -47,8 +64,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T03:48:29.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-23T03:48:29.562Z"
             }
           ]
         }

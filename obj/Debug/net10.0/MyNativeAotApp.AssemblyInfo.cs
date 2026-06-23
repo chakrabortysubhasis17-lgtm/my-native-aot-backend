@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyNativeAotApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c497b2f950eb797ffc7511011872d57857336ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25f527c1fdc439be8c31f3f186500944504aff45")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyNativeAotApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyNativeAotApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

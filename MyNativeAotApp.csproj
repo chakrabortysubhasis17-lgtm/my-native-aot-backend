@@ -12,10 +12,4 @@
     <PackageReference Include="Google.Cloud.Firestore" Version="4.3.0" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.8" />
   </ItemGroup>
-
-	<ItemGroup>
-		<TrimmerRootAssembly Include="Google.Apis.Auth" />
-		<TrimmerRootAssembly Include="Google.Apis" />
-		<TrimmerRootAssembly Include="Google.Apis.Core" />
-	</ItemGroup>
 </Project>

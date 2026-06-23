@@ -32,9 +32,9 @@
               "RelativeDocumentMoniker": "Dockerfile",
               "ToolTip": "D:\\Projects\\NewApp\\MyNativeAotApp\\Dockerfile",
               "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-06-23T03:50:48.474Z",
+              "WhenOpened": "2026-06-23T06:24:23.112Z",
               "EditorCaption": ""
             },
             {
@@ -45,9 +45,10 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Projects\\NewApp\\MyNativeAotApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T03:48:29.562Z"
+              "WhenOpened": "2026-06-23T03:48:29.562Z",
+              "EditorCaption": ""
             }
           ]
         }
