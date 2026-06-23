@@ -1,0 +1,11 @@
+@MyNativeAotApp_HostAddress = http://localhost:5290
+
+GET {{MyNativeAotApp_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{MyNativeAotApp_HostAddress}}/todos/1
+Accept: application/json
+
+###
