@@ -11,8 +11,8 @@ RUN dotnet restore
 COPY . .
 RUN dotnet publish -c Release -r linux-x64 -o /app /p:PublishAot=true
 
-# Stage 2: Ultra-lightweight .NET 10 runtime container
-FROM mcr.microsoft.com/dotnet/runtime-deps:10.0-chiseled AS final
+# Stage 2: Standard lightweight .NET 10 runtime container
+FROM mcr.microsoft.com/dotnet/runtime-deps:10.0 AS final
 WORKDIR /app
 COPY --from=build /app .
 EXPOSE 8080
